@@ -1,6 +1,5 @@
 /.env
 /.vscode
 /node_modules
-/README.md
 /dist/
 tsconfig.app.tsbuildinfo
