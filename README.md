@@ -36,9 +36,9 @@ To run the entire project
 
 - 1.0 Clone repository
 
-- 1.2 Build image: docker build -t <docker-username>/<application-name> .
+- 1.2 Build image: docker build -t docker-username/application-name .
 
-  - 1.2.1 Push image: docker push <docker-username>/<application-name>
+  - 1.2.1 Push image: docker push docker-username/application-name:latest
 
 - 1.3 Create new Web service from existing image(The image you pushed to hub.docker) on Render.com
 
